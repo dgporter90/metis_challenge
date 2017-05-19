@@ -1,0 +1,2363 @@
+commit e6cab562e81d4847cc8e581f7ae638e86bac3b34
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue May 16 07:50:13 2017 -0700
+
+    4.9.1
+
+commit e32895d511198a7ed0e505fb1b8bb484cf614460
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue May 16 07:50:09 2017 -0700
+
+    Update dependencies.
+
+commit cc59d86abd2eab20f2641c1eca62e3152a0f7766
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon May 15 12:20:34 2017 -0700
+
+    4.9.0
+
+commit 0a58fc3b2134a4520121eb064502b899440eeeeb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon May 15 12:20:15 2017 -0700
+
+    Update.
+
+commit 02d5392d825930b2bd27e87d1d9bc44a639e10f6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Apr 14 22:35:56 2017 -0700
+
+    4.8.0
+
+commit aef844fbbedad6bd34e80a80c8d39bce96447efd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Apr 14 22:35:50 2017 -0700
+
+    Update dependencies.
+
+commit 514a18676a6a85d968d20ce0929246220917437a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Mar 24 09:07:03 2017 -0700
+
+    4.7.4
+
+commit fc59f348b973f90fef52d4031998a4c2e5f47b0b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Mar 24 09:06:47 2017 -0700
+
+    Update d3-zoom.
+
+commit 9d493667aa192e35948508cd3fe0623bf6631043
+Author: Curran Kelleher <curran.kelleher@gmail.com>
+Date:   Wed Mar 22 20:24:56 2017 +0530
+
+    Update year to 2017 in License. Closes #3084
+
+commit 4227c3c2e49f7a0f4dc6fd161e6d181294e2aa3a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Mar 13 09:10:29 2017 -0700
+
+    4.7.3
+
+commit dc09d5aed41d3c9750cf828d350c7c3a7af17091
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Mar 13 09:10:02 2017 -0700
+
+    Update d3-geo.
+
+commit 3c307f6fceef234b0f70b2a4cbd72ebe4b6f566b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Mar 10 10:29:59 2017 -0800
+
+    4.7.2
+
+commit f7b9b35807690a077aeb35e8054e43a509878457
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Mar 10 10:29:16 2017 -0800
+
+    Update dependencies.
+
+commit ba3e6c489019c242d90561e223be2085bbf8b9f9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Mar 2 12:35:19 2017 -0800
+
+    4.7.1
+
+commit 854e7458c899fed62dbeae4d2a8c750a12fa0441
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Mar 2 12:34:48 2017 -0800
+
+    Update dependencies.
+
+commit bb4b00fae0ae8ed554a6f4a4eab2689679c5b42e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Feb 28 12:22:40 2017 -0800
+
+    4.7.0
+
+commit eadbaf3c1d41e9237d568bc64446f8a6ea2d398d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Feb 28 12:19:34 2017 -0800
+
+    Update dependencies.
+
+commit fb47694c52d4b7285cdbb80cbe7e42181826cc53
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Feb 19 09:07:47 2017 -0800
+
+    Add missing methods to API index.
+
+commit 7f9be6494e04aa20c7154dda8080c4cbae3fd598
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Feb 19 09:00:37 2017 -0800
+
+    4.6.0
+
+commit 2097c34c79b465bc596f1860e9ddf9bdb5c62d7c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Feb 19 09:00:16 2017 -0800
+
+    Update d3-geo.
+
+commit b2456e0508a325ea8e9945070b86e7ed7c83ffc2
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Feb 19 08:31:32 2017 -0800
+
+    HTTPS for bl.ocks.org.
+
+commit 0fd0361ed9dbf7f8471d513fd991da8d0e774cbc
+Merge: 1dda7915 5f9b9d50
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Feb 18 09:18:16 2017 -0800
+
+    Merge branch 'master' of github.com:d3/d3
+
+commit 1dda79156928e18ef69a69f5a7a8f5de2f35a55e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Feb 18 09:17:29 2017 -0800
+
+    4.5.1
+
+commit a326837258940e0379743d8a29aa69cc1d88c9f7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Feb 18 09:17:25 2017 -0800
+
+    Update d3-geo, d3-hierarchy.
+
+commit 5f9b9d50d83ec9a7dc43496cdb6183665adbeb3d
+Author: Elena Glassman <elena.glassman@gmail.com>
+Date:   Wed Feb 15 14:28:09 2017 -0800
+
+    fixed inconsistent subheading levels (### or ####)
+
+commit b080bf3796d2ac1163b85d3a5b2dfd11fa61c631
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jan 28 21:37:09 2017 -0800
+
+    4.5.0
+
+commit b79843666b7f1220f8a55e9f3d0ba5d8718216a9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jan 28 21:37:01 2017 -0800
+
+    Update d3-hierarchy.
+
+commit 559f497dc4c93c9e8148cf601f2faea78409464c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jan 26 13:07:18 2017 -0800
+
+    Link to README.
+
+commit 23f63caa19822434830e44012f045035a1f2a140
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jan 26 13:04:56 2017 -0800
+
+    Update CHANGES.
+
+commit d2278c73e514b475e308be937e18c31429780184
+Author: Micah Stubbs <micah.stubbs@gmail.com>
+Date:   Thu Jan 26 11:57:08 2017 -0800
+
+    link v3 and v4 tickSizeInner & tickSizeOuter
+    
+    add the d3 v3 `axis.innerTickSize` and `axis.outerTickSize` so that a user searching CHANGES.md for the v3 syntax will find a mention of it and a pointer to the new v4 syntax
+
+commit 635d44786dd4322d0c89dd98546bff91d7cce0fe
+Author: David Ollerhead <david.ollerhead@gmail.com>
+Date:   Thu Jan 26 18:01:49 2017 +0000
+
+    Missing semicolon
+    
+    d3-shape wants to be like the other guys
+
+commit 25e7759051fccab5fe5643eb668bcbb283ea3acc
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jan 23 10:49:16 2017 -0800
+
+    4.4.4
+
+commit 0700ba1452dab0a851d05a411f6e4a5384770e22
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jan 23 10:49:13 2017 -0800
+
+    Update d3-timer.
+
+commit ae384d6c5bd6b89bdd51a93457dcefec224d816c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jan 20 15:14:39 2017 -0800
+
+    Use ${npm_package_version}.
+
+commit 17fbf8d4b16ed19303d71dee4881d871bddbc037
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jan 20 15:11:32 2017 -0800
+
+    Add test for d3.event re-export on Node. Related #3055.
+
+commit f0dd621c675a985e285ca6415fc171eede306d20
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jan 20 15:09:13 2017 -0800
+
+    4.4.3
+
+commit a9dadca5467101b2875a6a522b9a17405188cda7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jan 20 15:09:01 2017 -0800
+
+    Fix #3055.
+
+commit b41a5fea460f29f3433be505da3dec38a35a9881
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jan 18 02:00:38 2017 -0800
+
+    4.4.2
+
+commit 72556dad257c906f5e9da76b1dc2a6475e9c464c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jan 18 02:00:25 2017 -0800
+
+    Update d3-interpolate, rollup.
+
+commit c57952f349dff8bb8035316cedc8878bf7d8b97e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jan 6 09:12:26 2017 -0800
+
+    4.4.1
+
+commit caa335ec961e02f206d0aa1fe8a9fdfad3e77681
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jan 6 09:12:05 2017 -0800
+
+    Update d3-voronoi, d3-zoom.
+
+commit f797dfe883ee510f32acadf3ab8be736146e5927
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Nov 22 17:31:45 2016 -0800
+
+    4.4.0
+
+commit 748cf5245fe1c74a41d86be565a59bd851b91714
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Nov 22 17:13:48 2016 -0800
+
+    Update dependencies.
+
+commit 4a62ae5180acf3998b3a63eceaaf3d2443ecfc54
+Author: Peter Lenahan <peter.lenahan@synacor.com>
+Date:   Mon Nov 21 21:53:45 2016 -0500
+
+    Correct typos in d3-axis documentation, "axisTight" -> "axisRight"; "axisTeft" -> "axisLeft"
+
+commit 667ce0d7f846869d351c3e51602ec659b418a7f8
+Author: Mike van Rossum <mike@mikevanrossum.nl>
+Date:   Fri Nov 4 14:55:27 2016 +0000
+
+    "an Y-shape symbol" -> "a Y shape"
+
+commit 9ec65086df29e5ba093ddb3e80853d1a1474ee16
+Author: Mike van Rossum <mike@mikevanrossum.nl>
+Date:   Fri Nov 4 14:34:27 2016 +0000
+
+    fixed wye decription
+
+commit 5506719c33643fd772610ec956c6accdc73bfea4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Nov 2 15:32:05 2016 -0700
+
+    Update README.
+
+commit 2d5a1eeafd2f2f25f16df970b30f6d751061ef77
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Oct 27 11:53:45 2016 -0700
+
+    Update the API Reference.
+
+commit 33da151d2437941ea0767f27b6a83668ea5f21bb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Oct 27 11:43:19 2016 -0700
+
+    4.3.0
+
+commit 635865c959bb49b54691bdf0dff03eb62e1b5002
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Oct 27 11:43:10 2016 -0700
+
+    Update dependencies.
+
+commit ec3fa7239e48e84873de7b034692389bb48bcb5e
+Merge: 46cce192 c5ce7d1e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Oct 20 10:51:07 2016 -0700
+
+    Merge branch 'master' of github.com:d3/d3
+
+commit 46cce19226e68cb3ed14a53ea7a2c83f163886d1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Oct 20 10:50:30 2016 -0700
+
+    4.2.8
+
+commit 42e072c99c07a0fe105d49dbecf0d09d077569cd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Oct 20 10:49:59 2016 -0700
+
+    Update dependencies.
+
+commit c5ce7d1ef93b077cdf7cb704b712242955717993
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Oct 19 14:43:25 2016 -0700
+
+    Fix 3.x examples. Fixes #3010.
+
+commit 97255a5062ba0ab38e3f6b4738ab2a0773052470
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Oct 11 08:54:56 2016 -0700
+
+    4.2.7
+
+commit 9c7f52429e0e9f1c8e4d9c516d80a63c5d1456a0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Oct 11 08:54:51 2016 -0700
+
+    Update dependencies.
+
+commit b35588e572b5cf475d6bd3e3b77c929a38977c74
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Oct 7 09:09:57 2016 -0700
+
+    Add ISSUE_TEMPLATE.md. Related #2994.
+
+commit 6a128b87cf8133cfab45b5a3cd0c7179b96a531d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Sep 22 10:30:22 2016 -0700
+
+    4.2.6
+
+commit 6d17d4169a6615c00e1b3488ea131e1456a5dce4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Sep 22 10:30:06 2016 -0700
+
+    Update d3-time.
+
+commit 9eace2286819ea2624d7393e004a4827069ade84
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Sep 20 13:12:56 2016 -0700
+
+    4.2.5
+
+commit 946736778cf046364bab8067ac88913ce658558d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Sep 20 13:12:52 2016 -0700
+
+    Update d3-geo.
+
+commit 4bf2a889cd3aa4c947909b158c20a150454f2fcf
+Author: Fábio Silva <fabio.fernando.osilva@gmail.com>
+Date:   Mon Sep 19 17:43:03 2016 -0300
+
+    Fixed typo in API reference (#2977)
+
+commit d1e6346084c4a7847ca9c90ee190ba7e5a4b01fd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 19 11:55:44 2016 -0700
+
+    4.2.4
+
+commit fa405ae34d1ea9c2d4957d8087d0a5fe0a491cc4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 19 11:55:39 2016 -0700
+
+    Update dependencies.
+
+commit 1814e85ae259f44baec3b857bd8573db1d29685c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 19 11:54:01 2016 -0700
+
+    Fix permissions.
+
+commit 10319b4e5dc36e22923ec400661ea5da128098a3
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 19 09:11:00 2016 -0700
+
+    Fix #2973.
+
+commit abdcb7e88d390627d6bc9ab3aec8f182002f647e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 19 08:52:43 2016 -0700
+
+    Fix #2976. Document removed internals.
+
+commit 55a8388d728315fd50f11ca5ab944b01296e4681
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 12 16:35:35 2016 -0700
+
+    4.2.3
+
+commit 20a69e7d2bb9df02207de797c7bb870799f12770
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Sep 12 16:35:30 2016 -0700
+
+    Update dependencies.
+
+commit d5e2c6f61bc82237c9dc5e7714d75335daf19c10
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Sep 11 07:56:34 2016 -0700
+
+    Update d3-force changes. Fixes #2971.
+
+commit 2265db7b33990eb76a33cd9787af5c5358e13eb6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Aug 30 12:26:38 2016 -0700
+
+    Update README.
+
+commit 0730276166e15d2a164cd816906ea17a2a42cfb4
+Merge: b5cd5634 f70d896e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Aug 30 12:25:30 2016 -0700
+
+    Merge branch 'patch-4' of https://github.com/jefkoslowski/d3
+
+commit f70d896e1a93166cbb007e9e2135c5f8cf5edefd
+Author: Jeferson Koslowski <jef.koslowski@gmail.com>
+Date:   Tue Aug 30 13:46:24 2016 -0300
+
+    Updated npmcdn.com links to unpkg.com
+    
+    According to the [creator's twitter](https://twitter.com/mjackson/status/770427936449101824) and the [npmcdn's website](https://npmcdn.com/) the project was renamed to unpkg to avoid trademark issues.
+
+commit b5cd5634ffd6c2a78d360a7ab34ad5a70b7365fb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Aug 15 21:21:49 2016 -0700
+
+    Disable negate_iife.
+
+commit a92d40d92129009c9a5e0da7c7dbb740837c2647
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Aug 15 21:19:25 2016 -0700
+
+    4.2.2
+
+commit 0314d0304c86402b380438edc48e0c4e3efaca09
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Aug 15 21:19:18 2016 -0700
+
+    Update d3-geo.
+
+commit a9878e996ac1239ac1ae19d2755024314162e858
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Aug 11 08:47:25 2016 -0700
+
+    Add module entry point.
+
+commit 0806b7821fecc6a5af0e6ba4b52bbe49bf4e355f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Aug 7 07:58:26 2016 -0700
+
+    Update README.
+
+commit bd735631eae3d11ab8c1bbbb2c0a8982358e922d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Aug 7 07:52:32 2016 -0700
+
+    Update README.
+
+commit b05d8676db223b05c1f9512488f0d334209a44f8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Aug 7 07:51:27 2016 -0700
+
+    Update README.
+
+commit 3b83e9fa35a08d1da24dca008da55702015e102d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Aug 7 07:50:53 2016 -0700
+
+    Update README.
+
+commit 7ad0ee653d53d795fc6623ffd201353b7144ab81
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Aug 7 07:49:47 2016 -0700
+
+    Update README.
+
+commit 5a7c7fdec4050effbb2f9bb33440a5d1c83fe7e1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Aug 2 17:42:13 2016 -0700
+
+    4.2.1
+
+commit 2b0e668d9ba9be5ae44b0df446f09e5805c9ddd9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Aug 2 17:42:07 2016 -0700
+
+    Update rollup-plugin-node-resolve.
+
+commit e03fcfbb44227b957b9fba12559d2383534e5a75
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 29 16:02:36 2016 -0700
+
+    4.2.0
+
+commit 5ae7fda4b3d5e249c46fa7350f1af779c5eec499
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 29 16:02:32 2016 -0700
+
+    Update dependencies.
+
+commit 7c78cb61599ae112dda2f56ebcca0e985bcad002
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 29 06:50:44 2016 -0700
+
+    Update CHANGES.
+
+commit c8088a0376f284d60c577ace32f3badc51814e54
+Author: Barrie Treloar <baerrach@gmail.com>
+Date:   Wed Jul 27 06:00:38 2016 +0930
+
+    Minor typo correction. (#2920)
+
+commit f1ec16c3baaf160d7d2e3e9538efda4d5b02dfd9
+Author: william-pan <william49@qq.com>
+Date:   Sat Jul 23 19:33:25 2016 +0800
+
+    Fixed description typo in API reference (#2916)
+
+commit 9b66aa0be97d9c4bf99714b18dc501db2e40601a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jul 18 14:56:57 2016 -0400
+
+    Update CHANGES.
+
+commit 4935be4b8a4bc5e94efa440e3b9333b7b980a720
+Merge: 32c724ed 07acde59
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jul 18 14:54:59 2016 -0400
+
+    Merge branch 'master' of https://github.com/gordonwoodhull/d3
+
+commit 07acde59483787221f21c48f48a30a152391a347
+Author: Gordon Woodhull <gordon@woodhull.com>
+Date:   Mon Jul 18 12:57:27 2016 -0400
+
+    a few typos and clarifications in the changes doc
+    
+    Not sure if I fully understand these, but I sensed inconsistency
+    * enter nodes are not defined anywhere, but placeholders are mentioned
+      everywhere
+    * catmull-rom changes described restoring the old behavior, but showed
+      the new behavior
+    * random fixes
+
+commit 32c724ed6dc43604fc41550bd817cd3ebf640d0a
+Author: Dev-Lan <lange604@umn.edu>
+Date:   Wed Jul 13 18:44:59 2016 -0500
+
+    fixed link typo in API reference (#2905)
+
+commit bd55ecf1ec4d04cabbf3d793e306e38093d444dd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Jul 10 22:47:51 2016 -0400
+
+    4.1.1
+
+commit 8d9c8f641ef468b1ea8b17c11c523b0e8a5fff69
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Jul 10 22:47:46 2016 -0400
+
+    Update dependencies.
+
+commit 0e360db3173d3be2af9fb66880046c39fa1b469e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 8 18:50:10 2016 -0400
+
+    Update CHANGES. Related #2896 d3/d3-request#12.
+
+commit 17e15a97ef8f72d5fec64bf2b1c1605c01241188
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 1 22:27:51 2016 -0700
+
+    4.1.0
+
+commit 07f0cd19f80dfaab540c63203c9f5a1164fb75f2
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 1 14:10:07 2016 -0700
+
+    Update dependencies.
+
+commit 15a892f487ee09ad05e7f34d7fb8531f0deb63ee
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jul 1 14:02:24 2016 -0700
+
+    Fix #2885 - missing d3-chord.
+
+commit ed5f82347ea0faf148913703e14c685ef98e44f8
+Author: Curran Kelleher <curran.kelleher@gmail.com>
+Date:   Fri Jul 1 19:29:51 2016 +0530
+
+    Remove sentence fragment ' There are also .'. (#2883)
+
+commit 2a7758293d5edf0b3877838ce9232097d47ba862
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 30 08:56:07 2016 -0700
+
+    Update CHANGES.
+
+commit 193a8605a52583d334fc38e069518453fc9571d1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 29 17:16:54 2016 -0700
+
+    Update bower on publish. Fixes #2874.
+
+commit 024e8b041220e3c006aa6518f0b6392523ee4031
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 28 08:02:50 2016 -0700
+
+    Tweak postpublish.
+
+commit 435793ac1444ebf43cd215af81e72a1a77b86516
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 28 08:01:50 2016 -0700
+
+    4.0.0
+
+commit a7caf9375fe14d7235562af541fe9decf499bbfb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 28 08:00:33 2016 -0700
+
+    Prepare for major release.
+
+commit 675f86de12f54f82d6512508a010780add2a6531
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 27 15:10:27 2016 -0700
+
+    Update API.
+
+commit e2e91fed7048b9f5190c46a007d9cec362f40ead
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 27 15:09:09 2016 -0700
+
+    Add link to 3.x reference.
+
+commit 3a0ba23482294aa0e25b893424fa467d583eb36e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 27 11:47:41 2016 -0700
+
+    Link to README directly.
+
+commit a28274c86e77c3fa5ca61fc2d1f6128e70425e83
+Merge: 3e6a4658 03f37a99
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 27 11:28:46 2016 -0700
+
+    Merge pull request #2869 from mpersing/patch-1
+    
+    Fixed incorrect links in API.md
+
+commit 03f37a996b779b7e4f00d20aa072c71773b4dceb
+Author: mpersing <potroast42@gmail.com>
+Date:   Mon Jun 27 11:22:20 2016 -0700
+
+    Fixed incorrect links in API.md
+
+commit 3e6a4658a245b72b71e594f4eabec19ef102f64b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 14:19:18 2016 -0700
+
+    Update API.
+
+commit e6bce5a76ca6e6c8f8fe988b8ce57242c4c94600
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 14:15:40 2016 -0700
+
+    Update API.
+
+commit d88af7b695ca4ddfcc6a9ee2650e5404dda27caf
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 14:13:34 2016 -0700
+
+    Update API.
+
+commit ed2ae909f48732ec56f2dbc537a7750f9bf0c7f7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 14:12:27 2016 -0700
+
+    Update API.
+
+commit 5cc857ad9f24a82a82840b89f29b2922e4b9399f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 14:11:00 2016 -0700
+
+    Update API.
+
+commit 8777757a3c427dec32fe606394ba473ddd9b52c7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 13:48:51 2016 -0700
+
+    Update CHANGES.
+
+commit 49241b2529560f26037a859d0b8f4b24545f4940
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:32:52 2016 -0700
+
+    Update API.
+
+commit 7c5054cc869c3dbfe14f4fdd311cd44277328cb1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:31:50 2016 -0700
+
+    Update API.
+
+commit f391b90138e539d69ebade057976188626852749
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:27:16 2016 -0700
+
+    Update API.
+
+commit 44515fd85b29dd4aa07c05acd0e211882bcce58e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:23:06 2016 -0700
+
+    Update API.
+
+commit 119aaeedb44983fd40c2fe6ef98befe0d899226e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:21:20 2016 -0700
+
+    Update API.
+
+commit 91cb2aed4e069de7de98555d44790c703425b295
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:20:23 2016 -0700
+
+    Update API.
+
+commit e2b8933a38b5ca3e4f55320f536c72b1c2d1453f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:10:38 2016 -0700
+
+    Update API.
+
+commit 3d776da6658fb2aea8d6cde240c7ad0a9e94f311
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:09:27 2016 -0700
+
+    Update API.
+
+commit 942328c57cc4b9fe1ab0395472eace8eaaa9e590
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:07:29 2016 -0700
+
+    Update API.
+
+commit 81cde7bc65686ef5e6ab70fb051580d09add3fb0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 09:03:51 2016 -0700
+
+    Update API.
+
+commit 4d777f819a4b7abf47ee335e2eb73743904f96f3
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 25 08:16:09 2016 -0700
+
+    Update d3-{brush,zoom}.
+
+commit 21b6f2b49e8f343de37dbddcf0130ddb97302e66
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 16:34:00 2016 -0700
+
+    4.0 release candidate 1.
+
+commit 4703e4c3fd07bd468f67623477e53c2ef7a9760e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:29:30 2016 -0700
+
+    Update CHANGES.
+
+commit 5d612e5d08dc543e28b78a37e35fb182ea8189a9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:24:55 2016 -0700
+
+    Update CHANGES.
+
+commit ff554e4fbae1ccec0ffaf0f7fe3c323879d052b5
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:24:37 2016 -0700
+
+    Update CHANGES.
+
+commit 81b78baa10546ad803a6e5bfc238758d5174cb99
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:24:02 2016 -0700
+
+    Update CHANGES.
+
+commit cb9adea55427a8dc27b1835998ed66f0885bfc16
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:15:15 2016 -0700
+
+    Update CHANGES.
+
+commit 199d335bcde709e0057afaed0d8e92d62f74116b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:14:29 2016 -0700
+
+    Update CHANGES.
+
+commit 38e100dd3a19d5957922c6fb7625be5964c8d78d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:13:24 2016 -0700
+
+    Update CHANGES.
+
+commit 7c955a83c88a2839441ce55079438487fd66a3b0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:11:57 2016 -0700
+
+    Update CHANGES.
+
+commit 18630e35d8909377c908a0ebab7565a14d539ad1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:09:19 2016 -0700
+
+    Update CHANGES.
+
+commit 3be37e5a1e038e51bcacb32836de7842dd5bc729
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 10:00:15 2016 -0700
+
+    Update CHANGES.
+
+commit 4e183c1c75da00aaf699257e89d5b0ab4b5506cd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 09:59:57 2016 -0700
+
+    Update CHANGES.
+
+commit fb02814a76d91b9b7b106cfdef9dd56dce0862bb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 09:45:19 2016 -0700
+
+    Update CHANGES.
+
+commit d5e7e6f8695870591dd25377476b68260b875b68
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 09:29:34 2016 -0700
+
+    Update README.
+
+commit 239b7390f0eaca07a6983834b85bddedf6fb619e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 09:26:47 2016 -0700
+
+    Update CHANGES.
+
+commit 2705001d8ea939d8f93eadbb7a2d6de89ed69a85
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 09:12:28 2016 -0700
+
+    Update README.
+
+commit aa72b44cc6bd23fd9146996c60193e5788117ac9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 24 08:47:50 2016 -0700
+
+    Update API.
+
+commit 9ef28eea89325258da992fe7e8b1633a2d89555a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 21:41:34 2016 -0700
+
+    Update CHANGES.
+
+commit 468a43e2900e3b9da8d5efc9c569146084f201ff
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 21:38:11 2016 -0700
+
+    Update CHANGES.
+
+commit aa13134b582bcf20dfb82bb5346a4198afdaadb6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 18:01:10 2016 -0700
+
+    Update CHANGES.
+
+commit 1e13bb8ecc1fb92c2c0624f33978ec20f15913b8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:56:26 2016 -0700
+
+    Update CHANGES.
+
+commit a3a5a5d825953618bbe86cb8e01da2513bb8083d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:55:03 2016 -0700
+
+    Update CHANGES.
+
+commit 78f6e50b0c1f0dcbfa2c07aa98310a6562b669b7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:54:35 2016 -0700
+
+    Update CHANGES.
+
+commit 3d62c61aeb796acc7f82420f072823687c43b721
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:53:29 2016 -0700
+
+    Update CHANGES.
+
+commit fe9468ecd51975d0894ef6f25e248350efdd81cf
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:36:45 2016 -0700
+
+    Update CHANGES.
+
+commit 781689b9db3baeac032b9ab4d523efa22082a520
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:30:11 2016 -0700
+
+    Update CHANGES.
+
+commit c7fd6919fb9b29a4b28b14b492356e2b1102c1ac
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:28:11 2016 -0700
+
+    Update CHANGES.
+
+commit f681093f5b2ce09f729887396e6441d6e7d1a33d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:27:25 2016 -0700
+
+    Update CHANGES.
+
+commit 4707533155ce67a9936cb95e924ff5c12763ad39
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:26:57 2016 -0700
+
+    Update CHANGES.
+
+commit f8d8297f66d8c436e1e096ee0a6e14529f2c2314
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:26:48 2016 -0700
+
+    Update CHANGES.
+
+commit 456f0ea28d6206f47226766076ca0bb0af38da48
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:15:13 2016 -0700
+
+    Update CHANGES.
+
+commit 6bba0821721d592709a78ae7d50b68e61cb645b9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:13:46 2016 -0700
+
+    Update CHANGES.
+
+commit 5a489062efefb94142fd22db6c1cd98af67b6afd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:13:03 2016 -0700
+
+    Update CHANGES.
+
+commit b9cd947eb3363fc893ba951e10653244e2e692b6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:12:09 2016 -0700
+
+    Update CHANGES.
+
+commit b1496594083205f7951fdcef1244afdbe086de1f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:11:27 2016 -0700
+
+    Update CHANGES.
+
+commit cf2f92678755b5980cd10d1489edd1c53a7ee117
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:10:15 2016 -0700
+
+    Update CHANGES.
+
+commit 1c692fccdd08f37f38e54dcbe1073b441b9436a9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:04:31 2016 -0700
+
+    Update CHANGES.
+
+commit 2d8d693acf82bdf09e848e2081996319a7c7c936
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:02:54 2016 -0700
+
+    Update API.
+
+commit d02d74e3a20a71b3b91f4e9c40f56d46b70087db
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 17:00:49 2016 -0700
+
+    Move API reference out of README.
+
+commit 6b3f9a06fffc81fa9d0a900b6cef0c77c0cf671e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 16:56:24 2016 -0700
+
+    Update CHANGES.
+
+commit 6694dfd3c3d1a540a824359c8a24f973f9a042ae
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:37:41 2016 -0700
+
+    Update CHANGES.
+
+commit f63a78566fd5ef8ca6a564ff531664aaf5d675d1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:35:53 2016 -0700
+
+    Update CHANGES.
+
+commit 30cccac3f0fb299b451da88e2a22bb348709560e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:35:06 2016 -0700
+
+    Update CHANGES.
+
+commit eebcb115eb1e6b10dcfcec086bb3de39fc73a7f9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:33:35 2016 -0700
+
+    Update CHANGES.
+
+commit ff294065a5bfad507d41fdd48bc70f338b25abdd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:20:55 2016 -0700
+
+    Update CHANGES.
+
+commit a370ec9800d0caa491bf16c61cbef6f97d951a2f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:13:17 2016 -0700
+
+    Update CHANGES.
+
+commit 5b62943ddcfd56dda072b84fd74b82a6e0118873
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:13:05 2016 -0700
+
+    Update CHANGES.
+
+commit e4d09ac176ab3eda0e6aa120eb118eeff320b3a9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:11:47 2016 -0700
+
+    Update CHANGES.
+
+commit 8852144420654a9ddf7b9d91a731ea367ba3d235
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:10:20 2016 -0700
+
+    Update CHANGES.
+
+commit 66f13e585929e10c048e7cb2dd673cfea80b0982
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:03:58 2016 -0700
+
+    Update CHANGES.
+
+commit 2c881b16063169e865e0d0885cc489ac0564c8b8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:03:27 2016 -0700
+
+    Update CHANGES.
+
+commit 77bb117cdcc3abc6f52b750d8054e2a89dcf9d8e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:02:34 2016 -0700
+
+    Update CHANGES.
+
+commit 3e774f8399a5dd5e8ac33c13a93612d4ea8f5785
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 15:01:22 2016 -0700
+
+    Update CHANGES.
+
+commit 04cea6e30e343dc75a2c4a4df26065a7f562072a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 14:05:45 2016 -0700
+
+    Update CHANGES.
+
+commit 41afb08f870a25910111d8aac3e6666cbabc402e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 23 14:02:59 2016 -0700
+
+    Update CHANGES.
+
+commit 1ebbf23056911d16db9f6da989dd21182c6e54cd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 21:36:43 2016 -0700
+
+    Update CHANGES.
+
+commit a654a29e8cd241a8c8b8ed8a46ca2306982f6f3e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 15:53:40 2016 -0700
+
+    Update CHANGES.
+
+commit e06d40e982d4c422d1ae2cfd9caaac37c4422631
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 15:53:25 2016 -0700
+
+    Update CHANGES.
+
+commit 5c3be383f7091a3dc15f30f51b44450a3cdef181
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 15:53:02 2016 -0700
+
+    Update CHANGES.
+
+commit 24debcaf670308944cfe2fbf8f31e9d5f461375f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 13:29:40 2016 -0700
+
+    Update CHANGES.
+
+commit 28cda0d58081b53dc9f4cc0c0d42c8cb52f2c6ca
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 13:13:58 2016 -0700
+
+    Update CHANGES.
+
+commit 66f3be6db29b6c3ac3929ec53f7b0a8256874f4b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 13:13:45 2016 -0700
+
+    Update CHANGES.
+
+commit 8829a26225c6d26e80e7084794218e5a9a96b42c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 13:08:50 2016 -0700
+
+    Update CHANGES.
+
+commit 1e1fc808fd23d3e1b2ae1d0eabded8e420ecb830
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 13:08:49 2016 -0700
+
+    Add pack images.
+
+commit 1c3a1b8c7af46d519be64db51b388ef93825e68c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:55:06 2016 -0700
+
+    Update CHANGES.
+
+commit 5927575d019044f931816c0973f92b23371ab57f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:54:37 2016 -0700
+
+    Update CHANGES.
+
+commit 5d67f36ba7f74dfc37480e5c580e0564ff03b6c2
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:54:29 2016 -0700
+
+    Update CHANGES.
+
+commit 721d169fba7422acddb0a213635bf4d4ad919832
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:53:53 2016 -0700
+
+    Update CHANGES.
+
+commit b2b58c091b1c957d34d78e1e11f75c92bff01f5a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:44:08 2016 -0700
+
+    Update CHANGES.
+
+commit 0b5249e7d8d79e99b6540f68bf849a37fabcca2d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:43:13 2016 -0700
+
+    Update CHANGES.
+
+commit 34baaf0ae9cc2d9abb24a87f81cec34c9d1877fd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 12:25:04 2016 -0700
+
+    Update CHANGES.
+
+commit c31adb40a6bdd686e1c32c1073764ab8ddb7bceb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:56:38 2016 -0700
+
+    Update CHANGES.
+
+commit 48fd08cf24df0312062daceed02d3fa082300e01
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:56:34 2016 -0700
+
+    Update CHANGES.
+
+commit ca91481b5ef835230858715650b22f25df59fada
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:56:29 2016 -0700
+
+    Update CHANGES.
+
+commit c49ad9e45ebac940ab94e984e4cdd748f50d1d04
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:53:46 2016 -0700
+
+    Update CHANGES.
+
+commit be6b3f5e590b64e937c982e70bfa235255984360
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:52:05 2016 -0700
+
+    Update CHANGES.
+
+commit 3ee3c40b19081b8e11241230b6022632b69f236e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:50:40 2016 -0700
+
+    Update CHANGES.
+
+commit 36f25449fe76bd2c088bccc8eca397649e899604
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:49:52 2016 -0700
+
+    Update CHANGES.
+
+commit 5aa12c5bb5991d0858b41768e1f495cd097797ef
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 11:48:49 2016 -0700
+
+    Add stratify.png.
+
+commit 0728dd48d1712c4bb98e0beea5d6ac2155aea1a0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 10:50:11 2016 -0700
+
+    Update CHANGES.
+
+commit f2dcd4260d073f25409710f260558d634dd06467
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 22 10:48:38 2016 -0700
+
+    Update CHANGES.
+
+commit 701d5bde8030b903765013c9b59edf935dd8f118
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 21:26:34 2016 -0700
+
+    Update CHANGES.
+
+commit b13a84f825380c143c39fca9339e56577802a329
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 21:26:23 2016 -0700
+
+    Update CHANGES.
+
+commit f4b93beebab3fbd5c110fc359553e8b25b51cb0b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 21:24:44 2016 -0700
+
+    Update CHANGES.
+
+commit 3a06b3bc3303f45d93e065c50ffc86cde2e7971e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 16:55:40 2016 -0700
+
+    Update CHANGES.
+
+commit 3e4e3393b33b4a88b838a26c86ccf06c243b9a96
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 15:23:57 2016 -0700
+
+    Update CHANGES.
+
+commit 5f3219fd73275f4134a5ed29ba5b40ee6acb7501
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 14:50:03 2016 -0700
+
+    Update CHANGES.
+
+commit 7a0c54b382ccf5df6e1f839237a0551b7c5542e8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 14:47:46 2016 -0700
+
+    Update CHANGES.
+
+commit 07ff80e9114fa16b187889e5bbe0b0e202754d61
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 11:38:30 2016 -0700
+
+    Update CHANGES.
+
+commit 10ec58b0943a689a443c94a5631e87006c47b33f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 11:35:39 2016 -0700
+
+    Update CHANGES.
+
+commit 7e0248b2d1f94cf2983363b47b2d80dfbf50648a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 21 11:20:42 2016 -0700
+
+    Update CHANGES.
+
+commit 73628b3092a01a4a05c1b2a58d313237c85e82c4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:41:00 2016 -0700
+
+    Update CHANGES.
+
+commit cf5ba74aadf0d8e37c911fdcaa0e33f063f00996
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:40:26 2016 -0700
+
+    Update CHANGES.
+
+commit 3677858252c64e6763d7a9458d9473b548103291
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:40:09 2016 -0700
+
+    Update CHANGES.
+
+commit bc716fceac030ea172891a219f455d3aabf5042b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:39:50 2016 -0700
+
+    Update CHANGES.
+
+commit 9f467e591cff7991054833cec2e6909786a8988e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:39:08 2016 -0700
+
+    Update CHANGES.
+
+commit 815d38b869631c5dd197940e5432af4ba3000499
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:38:42 2016 -0700
+
+    Update CHANGES.
+
+commit 6f63be68a16033acc96c7ee056fd374cd1d3a013
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:38:15 2016 -0700
+
+    Update CHANGES.
+
+commit b20b8ee689e71ba6bd648b0933a1cdbbeeccf3d9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 15:36:20 2016 -0700
+
+    Update CHANGES.
+
+commit 4991ea3cc8fe5b7684ab96ec396f0534e5c38c53
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 12:32:58 2016 -0700
+
+    Update CHANGES.
+
+commit 7d84e01de46da320983e69a8ab00d714d398855a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 12:11:31 2016 -0700
+
+    Update CHANGES.
+
+commit 8236a004023a214303b3e788fe7d4a0d673da9da
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 12:11:10 2016 -0700
+
+    Update CHANGES.
+
+commit dba952313d94d4292568b6f7ba1ec2bef1968a13
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 12:09:10 2016 -0700
+
+    Update CHANGES.
+
+commit 86df1f807fe31b3da642959da0573af504a23974
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 11:47:13 2016 -0700
+
+    Update CHANGES.
+
+commit d16fdc1090ee66ea3e9ea3c626f675effd7367af
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 11:43:39 2016 -0700
+
+    Update CHANGES.
+
+commit 7d523b3526dfb13c89b0480d4eb3a63f62d4f743
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 11:42:44 2016 -0700
+
+    Update CHANGES.
+
+commit cbb65eebc5494b1e3463afef7445c641925de4e6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 20 11:40:43 2016 -0700
+
+    Update CHANGES.
+
+commit 5fb34810ce951a06581638696e33140392a52326
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Jun 19 10:03:18 2016 -0700
+
+    Update README.
+
+commit 8fbfa1f534aabfa54e3fc1a5db351f4135ac63f7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Jun 19 09:54:00 2016 -0700
+
+    Update README.
+
+commit 907a4255ec94d6d764ebc6a68e705799dd292d6b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sun Jun 19 09:52:30 2016 -0700
+
+    Add d3-geo; update dependencies.
+
+commit 803e6c820fa2c1c69c1b971cb871ca8f10ffb268
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 16:21:40 2016 -0700
+
+    Update CHANGES.
+
+commit 3e503b20ec52bc12ce456a950d0a4b4f26398f31
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 16:19:34 2016 -0700
+
+    Update CHANGES.
+
+commit c826bce6d4bca1beb969f6b168326edeac189ace
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 11:42:50 2016 -0700
+
+    Update CHANGES.
+
+commit 6f9bd49806cd13d4311f2db4d585e67a1a266e1b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 11:41:22 2016 -0700
+
+    Update CHANGES.
+
+commit 562a5fa0dd550d944a4642c2785b0b913c577d7f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 11:41:07 2016 -0700
+
+    Update CHANGES.
+
+commit 764307a9b15498f6371a100889a760f9ee99ab32
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 11:40:11 2016 -0700
+
+    Update CHANGES.
+
+commit 7e074abd64b03442b0a2698135d3fac6100503ff
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 10:55:15 2016 -0700
+
+    Update CHANGES.
+
+commit 0e6d5bdcb65b985eb445c7b0761548b683d1e5ce
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 10:07:35 2016 -0700
+
+    Update CHANGES.
+
+commit 398af0577a6d6909e74485c466c87c682c0fafbe
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 10:06:57 2016 -0700
+
+    Update README.
+
+commit 70609508a10d1a5301dd4e5fc298636e5aaa3f14
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 09:30:05 2016 -0700
+
+    Update CHANGES.
+
+commit a0f59be6531923f9aa7f9a66346a549d0ef57173
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 09:29:33 2016 -0700
+
+    Update CHANGES.
+
+commit 1993686bc44b3735c82ba8c26a8077f1cd3dceec
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 09:23:58 2016 -0700
+
+    Update CHANGES.
+
+commit 5ca0f285578e3957faedb8db5df0426bb2144928
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 08:52:32 2016 -0700
+
+    Update CHANGES.
+
+commit c2d08b4208c96e2d475627fb4fffba8d6e4eadd9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 15 08:55:36 2016 -0700
+
+    Update CHANGES.
+
+commit dd08864553598d01dd90ee001b037d60f765fa66
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 16:32:08 2016 -0700
+
+    Update CHANGES.
+
+commit f4feb01dd2fcb568d41d9a9ed795ccf7f102ab3a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 16:30:42 2016 -0700
+
+    Update CHANGES.
+
+commit 71f898b94cb9c3e6a5ac09e66ff0aebd57e737ff
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 16:30:26 2016 -0700
+
+    Update CHANGES.
+
+commit 324c1a4c355b7caa6b2de6a0714a286025cb51ad
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 16:28:49 2016 -0700
+
+    Update CHANGES.
+
+commit d86c180e8f3475e3e9294da4fbfce93c7bd351ee
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 16:13:36 2016 -0700
+
+    Update CHANGES.
+
+commit ce796a5dffef3c962d0bbf22963f0849a17c9d73
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 16:12:49 2016 -0700
+
+    Update CHANGES.
+
+commit a7552eaa636edd7b4dba9e278091095076cef788
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:59:31 2016 -0700
+
+    Update CHANGES.
+
+commit c5ac49a88e5768f5bfa39d3bd4e1e64eb80c1b0b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:42:30 2016 -0700
+
+    Update CHANGES.
+
+commit 3c140ca53c29a4f24bc47c5120cfbfadc9e47c57
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:41:50 2016 -0700
+
+    Update CHANGES.
+
+commit e7b38e4eafea047046eb72e9f43cef6a2e5348ee
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:39:08 2016 -0700
+
+    Update CHANGES.
+
+commit 8f64897c7b7354b7e5d9b8711b926be9b74031a4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:35:31 2016 -0700
+
+    Update CHANGES.
+
+commit 0d6471da2f61739e7033f7e3ba58bb6bcaa602be
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:30:47 2016 -0700
+
+    Update CHANGES.
+
+commit 3f3bd0c712627fb6b5c010c49c51ffbc123eaf8a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:29:14 2016 -0700
+
+    Update CHANGES.
+
+commit 62b7b3fb1e2ad12cd0b7aecfe3d26709ec0ef45f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:28:57 2016 -0700
+
+    Update CHANGES.
+
+commit e68a4c802e2e57392bd7ce9c57f4225381baa68d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:28:20 2016 -0700
+
+    Update CHANGES.
+
+commit 76e158a100f39fff87d412ca96d564e4f8a028c8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 13:27:07 2016 -0700
+
+    Update CHANGES.
+
+commit 37c4ff938f356336ee1e397a9dcb3f0fffcd42e2
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 12:48:52 2016 -0700
+
+    Update CHANGES.
+
+commit b6372a116579862901e3849da921d30d237694e4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 12:47:49 2016 -0700
+
+    Update CHANGES.
+
+commit d355176c6f3d12d8c7b9688aa70396e603e9f559
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 11:44:08 2016 -0700
+
+    Update CHANGES.
+
+commit fb118ddb5409cb4fd633129214acd00fdb77e776
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 11:24:29 2016 -0700
+
+    Update CHANGES.
+
+commit 6a0a2a80a3909177272b737c84d99324e0bd3801
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 11:21:51 2016 -0700
+
+    Update CHANGES.
+
+commit 4f7414a2c0825503662c88668517060ce6095741
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 11:02:07 2016 -0700
+
+    Update CHANGES.
+
+commit 9c3f7ecbb3d9a71a7982bf80771027e1b8d16f9e
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 10:52:56 2016 -0700
+
+    Update CHANGES.
+
+commit 088156ee43cee6dd08b080a4ad84b4c19f496cea
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 10:28:04 2016 -0700
+
+    Update CHANGES.
+
+commit eba6fc8922e188a011aacc4ad632fb00a44feb31
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 10:15:15 2016 -0700
+
+    Update CHANGES.
+
+commit c967623aa1388378c25b36e94b91713881dad0e8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 10:10:18 2016 -0700
+
+    Update CHANGES.
+
+commit d4ad20baf7d92447895f7e9ccd6ee8b0e02c8c88
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 10:08:09 2016 -0700
+
+    Update CHANGES.
+
+commit b906d1b7b9d5c725b0ce3f0becad018dad2e2886
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 10:07:35 2016 -0700
+
+    Update CHANGES.
+
+commit 3792c0f2afe3522d6b3efe038e32350c9ee69834
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 14 09:45:46 2016 -0700
+
+    Update CHANGES.
+
+commit 18fa6de295301c4754acf90336efd5efc87c5723
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:56:53 2016 -0700
+
+    Update CHANGES.
+
+commit 117fee1936d25a22870e1ab973c1e5a42ad21682
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:16:16 2016 -0700
+
+    Update CHANGES.
+
+commit 09677297de8d9cd9f5084c662109525bde21276c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:09:15 2016 -0700
+
+    Update CHANGES.
+
+commit 1d00d451a6d0ef946620d8e8aa9968796cdaa92d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:05:32 2016 -0700
+
+    Update CHANGES.
+
+commit b7f318600d54344448c89de3968eabbf1c2b866a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:04:19 2016 -0700
+
+    Update CHANGES.
+
+commit 375b8abad726165185b4d571880077e478c5bcb1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:03:44 2016 -0700
+
+    Update CHANGES.
+
+commit 0bf137f218c90deefd7b5c7bbea6bf7a30fdad6a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 16:03:18 2016 -0700
+
+    Update CHANGES.
+
+commit b4e0aab43430cd2eb8613735222a3cc3752d8c09
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 15:47:27 2016 -0700
+
+    Update CHANGES.
+
+commit ffa43077266dc596abd5ade59e7ef4b9050ae376
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 15:47:09 2016 -0700
+
+    Update CHANGES.
+
+commit 68212320759fcd706a5383dbb1cb026a9cca68bd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 15:46:22 2016 -0700
+
+    Update CHANGES.
+
+commit ab51dbcf8f82093416bc3d0a696816f3db961675
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 15:46:06 2016 -0700
+
+    Update CHANGES.
+
+commit ace3f5dfc165c847da5a63b2acf3ba8704bdfc02
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 15:45:28 2016 -0700
+
+    Update CHANGES.
+
+commit 13be5eefc8c11ad28d961999f94e8be27c9d8c81
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:32:09 2016 -0700
+
+    Update CHANGES.
+
+commit c057ec29d417f03fac3d8909b72bbba05ed8873c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:30:42 2016 -0700
+
+    Update CHANGES.
+
+commit 6d0b2669c22baeda555831d866f3bfea61b4ff16
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:29:44 2016 -0700
+
+    Update CHANGES.
+
+commit 446f2e052f9aa742587123764ad0001090e7369c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:29:08 2016 -0700
+
+    Update CHANGES.
+
+commit e51c3c95bb392e6f3c62303d00d907f398956f12
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:16:22 2016 -0700
+
+    Update CHANGES.
+
+commit eba0d8ae8805c5489d08cd23b75d7a4ee78a6da0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:14:43 2016 -0700
+
+    Update CHANGES.
+
+commit a8d52580be47513edcfe68289d8640b862491d30
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:13:06 2016 -0700
+
+    Update CHANGES.
+
+commit 72b18553e8e80ae317f1ec2bc865eb793c005417
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 14:12:09 2016 -0700
+
+    Update CHANGES.
+
+commit 07fdb885380d0e0166911bcfcef0c3072e7d9e22
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 13:34:16 2016 -0700
+
+    Update CHANGES.
+
+commit 76de6543804288127d8ad153738ea040d9c462dd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 13:26:31 2016 -0700
+
+    Update CHANGES.
+
+commit 35a754c2ad91b6b6d15495ae7fa923307ddf3fc6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 13:22:07 2016 -0700
+
+    Update CHANGES.
+
+commit 1050c529b6d613449b4ee3599af921411cd3535a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 13:20:12 2016 -0700
+
+    Update CHANGES.
+
+commit 611513ff0429219b7e1593082dbbdcfc1828a5ce
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 13:18:30 2016 -0700
+
+    Update CHANGES.
+
+commit c44c02b59d36d7a636c86a8e6f9f2cb12db2ce49
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 13:18:05 2016 -0700
+
+    Update CHANGES.
+
+commit 1e88b0aa38df92432e3b96e337344d5ee214fbd1
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:36:08 2016 -0700
+
+    Update CHANGES.
+
+commit 4f486497f7b1bccb747435343ac6c74f46541b21
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:35:38 2016 -0700
+
+    Update CHANGES.
+
+commit 8a37c619db348ad96f56caa05fc0c79ce13cb144
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:34:17 2016 -0700
+
+    Update CHANGES.
+
+commit 87145de1488340f09b3a05e75c2f02f9b1e78349
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:31:48 2016 -0700
+
+    Update CHANGES.
+
+commit 187f59b458c727f5c1c387f54e97a8bdf648e958
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:16:42 2016 -0700
+
+    Update CHANGES.
+
+commit 40baf6e9e6bbbf45bddcde088c7e35e817a72b6c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:08:44 2016 -0700
+
+    Update CHANGES.
+
+commit b922a370c2abc0ef20ba5ad8000278182edc5b18
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 12:06:16 2016 -0700
+
+    Update CHANGES.
+
+commit dfc97f04c163b78be666b60b45e084a96cc0879a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:50:28 2016 -0700
+
+    Update CHANGES.
+
+commit a1a46d5401e108ca09469ba61c28ff296999c933
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:43:33 2016 -0700
+
+    Update CHANGES.
+
+commit 0a105341c955e6012be4ea37638c26089ce0a5e0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:40:15 2016 -0700
+
+    Update CHANGES.
+
+commit 7280ae00044e11c1a234348307fa0c016dc32269
+Merge: 51d08f92 c5b9069d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:40:06 2016 -0700
+
+    Merge pull request #2845 from curran/patch-2
+    
+    Add link to first mention of d3.map
+
+commit c5b9069d4ee0af7cbf99edbad42fc2a81df2d4d0
+Author: Curran Kelleher <curran.kelleher@gmail.com>
+Date:   Tue Jun 14 00:06:34 2016 +0530
+
+    Add link to first mention of d3.map
+    
+    For consistency with the previous mention of d3.set, which was linked.
+
+commit 51d08f92bdfe973b197c809b376ed5c6fd30956c
+Merge: 894e1a8f 51ca9d0c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:29:42 2016 -0700
+
+    Merge pull request #2844 from curran/patch-1
+    
+    to be inspect -> to be inspected
+
+commit 894e1a8f926420319eaf4372d07a8f23a522a2fe
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:29:10 2016 -0700
+
+    Update CHANGES.
+
+commit 51ca9d0c663cae7ca64999138938062b150d9c71
+Author: Curran Kelleher <curran.kelleher@gmail.com>
+Date:   Mon Jun 13 23:55:02 2016 +0530
+
+    to be inspect -> to be inspected
+    
+    I was reading through this and it seemed like you meant "inspected" here:
+    
+     * before: that also allows the axis tick arguments to be inspect.
+    
+     * after: that also allows the axis tick arguments to be inspected.
+
+commit cb61df0da7373064bffa12de4014985d9ee82afd
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 11:10:56 2016 -0700
+
+    Update CHANGES.
+
+commit 4f56040b630ad33c14adb8a1d96c85fd5832cb3a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Mon Jun 13 09:02:13 2016 -0700
+
+    Update CHANGES.
+
+commit 0f5bd679faf91b926df0fe48c2d2c50a8d59b531
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat Jun 11 08:47:20 2016 -0700
+
+    Update CHANGES.
+
+commit ee0401cb8c31379f4d04913f7a8b07afb2bec96a
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 22:17:49 2016 -0700
+
+    Update CHANGES.
+
+commit 29bc8621174c8473194e0cdce7e61f563c1671fb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 17:16:16 2016 -0700
+
+    Update CHANGES.
+
+commit db76f70288eae813aaf9fb708d9472d8bbd3908b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 16:57:22 2016 -0700
+
+    Update CHANGES.
+
+commit 0cf7fef306be89e1fe828a6a06a9c5325ef67137
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 16:40:10 2016 -0700
+
+    Update CHANGES.
+
+commit 0d590866b86a2da8869ba42b42be029871e9e4a5
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 15:10:17 2016 -0700
+
+    Update CHANGES.
+
+commit 46d675a02d8e6fc28c9ebe97cd75b2d41d75c47c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 15:09:57 2016 -0700
+
+    Update CHANGES.
+
+commit 1561d9c3b7d04eba5bc11d872090aba091adef1b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 15:05:55 2016 -0700
+
+    Update CHANGES.
+
+commit 54a2f3236c744737daa90ecf830c39d911c9bcf8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 14:58:26 2016 -0700
+
+    Update CHANGES.
+
+commit c206737dadce032be017c46acfe202e2e49a4937
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 14:43:08 2016 -0700
+
+    Update CHANGES.
+
+commit c0917022521cb93873ba107acaa1e1868018a006
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 14:17:32 2016 -0700
+
+    Update CHANGES.
+
+commit 9b8fda9ca823d64ee6fe5fa2333231b52b49244f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 10:04:32 2016 -0700
+
+    Alpha 49.
+
+commit 93105bdf2a0bb0eb1f755b10162cfe5beaf0a06f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 09:58:01 2016 -0700
+
+    Alpha 48.
+
+commit 9f27b1f302be3825c56b9b20f203ed7a4cac7117
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 09:11:37 2016 -0700
+
+    Alpha 47.
+
+commit 742432220f4d6e10e8deb5bb07c3e4eba3c5af7b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Fri Jun 10 08:52:03 2016 -0700
+
+    Alpha 46.
+
+commit 335fa18249bcc71e5a31a941cdbd52b785bb6b44
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 17:42:59 2016 -0700
+
+    Update CHANGES.
+
+commit 618216837a134f4a9809d9571c9a089e0629821d
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 17:26:52 2016 -0700
+
+    Update CHANGES.
+
+commit 6935e55d39b05dcde6485cff24507fce7e828755
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 17:05:19 2016 -0700
+
+    Update CHANGES.
+
+commit 6674cb9b4292a031c1f170abd222222db7f7a22c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 17:03:45 2016 -0700
+
+    Update CHANGES.
+
+commit bf2499f56735bdd27a6c3924d2192b1287b22ae0
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 17:01:51 2016 -0700
+
+    Update CHANGES.
+
+commit 5f24ebe3d870d52089106b4ad81b324ffe26df4c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 16:54:31 2016 -0700
+
+    Update CHANGES.
+
+commit ec7ec53a0dadb29272acd0de9fd52028a7e6bffe
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 15:28:39 2016 -0700
+
+    Update CHANGES.
+
+commit ae225491beb39d04cd75b415aa46c677f0cd753c
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 15:21:11 2016 -0700
+
+    Update CHANGES.
+
+commit f14b0e345c3b49ca76f9a72549b394b8a0d6cbe6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 15:16:20 2016 -0700
+
+    Update CHANGES.
+
+commit aa31a5f100fa93542d1b3439465e40a24ed0fab9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 15:02:03 2016 -0700
+
+    Update CHANGES.
+
+commit ad2ffe75d2aabd993e371897483c699e400c29f6
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 14:56:11 2016 -0700
+
+    Update CHANGES.
+
+commit 08e05462001e8871c530453c1d249f1b5e5739a8
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 14:54:45 2016 -0700
+
+    Add images.
+
+commit 45f2e6d3c1a8faed23fad80f1a08c59bb95a4387
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 14:44:51 2016 -0700
+
+    Update CHANGES.
+
+commit 3b2ffd3e04506693572faf49f631b0ead781b6da
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 14:43:38 2016 -0700
+
+    Update CHANGES.
+
+commit f90735f64c12be84b46aefac3f1f1efd7c8dacce
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 14:43:12 2016 -0700
+
+    Update CHANGES.
+
+commit 14c98bb74d55cc82ad0743d05582621c749fb9b7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 14:22:18 2016 -0700
+
+    Update CHANGES.
+
+commit 163696450a6972aa64af8a769bf86b6b05e5bfad
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 13:10:26 2016 -0700
+
+    Update CHANGES.
+
+commit d9e149c93cf2eea1ec4f94b0692ae97029889cf7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 13:07:31 2016 -0700
+
+    Adopt rollup-plugin-ascii.
+
+commit 008be55c8a305a443f1e6c50baf559e9977153bf
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu Jun 9 10:57:17 2016 -0700
+
+    Update CHANGES.
+
+commit 4c345a00b53d185c578c5cf71faef689194b3ae9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 15:46:49 2016 -0700
+
+    Update CHANGES.
+
+commit aa32a5b3f1701082312faddc7d7fd84240a4dbad
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 15:43:54 2016 -0700
+
+    Update CHANGES.
+
+commit 6098f39667ed422e84ab15e046c418cf84b98436
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 15:43:19 2016 -0700
+
+    Update CHANGES.
+
+commit 174e3c976bcacb8f566875c561bbec3c89e0e787
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 13:06:07 2016 -0700
+
+    Update CHANGES.
+
+commit c87a91c790ed4aa965e5eb71da909766a89c6256
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 12:14:11 2016 -0700
+
+    Update CHANGES.
+
+commit aa889a660a1925cda90389d89904b4ca3e3d1970
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 12:11:25 2016 -0700
+
+    Update CHANGES.
+
+commit 55c840af22ba555e2e9cf723574e098059a87d13
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 12:10:41 2016 -0700
+
+    Update CHANGES.
+
+commit 8deea6b21bb22a3d8dc7ef8665acc151ac7fa168
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 12:04:44 2016 -0700
+
+    Update CHANGES.
+
+commit e83522d148953c990585268d7027141d76341c32
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 12:01:57 2016 -0700
+
+    Update CHANGES.
+
+commit 34629b0897a27879bd77530928ca86cfe691afd7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:53:10 2016 -0700
+
+    Update CHANGES.
+
+commit 2a0c9c896cc80c9432b93a52e9900e4ef236feda
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:36:40 2016 -0700
+
+    Update CHANGES.
+
+commit 61c34ace8d0a50187305eff9865a7d7a734f0c53
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:36:22 2016 -0700
+
+    Update CHANGES.
+
+commit d46bbc48d2f4eab61694c0772d5cf6e598d62266
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:32:09 2016 -0700
+
+    Update README.
+
+commit 11f26ea4be0368d01166b632bf012060932b7c85
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:29:53 2016 -0700
+
+    Update CHANGES.
+
+commit bdaa3883111be2f689274e43fcfbbe3e284fef4b
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:16:46 2016 -0700
+
+    Update CHANGES.
+
+commit f1ec48388d130d9cd89ae5037e24bea3a98e68ab
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:16:13 2016 -0700
+
+    Update CHANGES.
+
+commit 425a97a8d6b5cf2eba96ea6f42517b54ac70e194
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:15:42 2016 -0700
+
+    Update CHANGES.
+
+commit 9e2e9946f95485f99ffbbbe2a30e25788095fa18
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 11:09:21 2016 -0700
+
+    Ch-ch-ch-changes.
+
+commit f562132d1c8fde9182313eecf1aee26ecfb67812
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed Jun 8 10:18:06 2016 -0700
+
+    Update README.
+
+commit 8d9e294d662e86d15f74acd8a5e8cc39952e1df7
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 7 22:00:06 2016 -0700
+
+    Update README.
+
+commit 45073c587cbb90f9948adee4945b8ea677fcda33
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 7 21:53:27 2016 -0700
+
+    Update README.
+
+commit 67d01c05cb9a8238c5d85d742efa2394e6846a3f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue Jun 7 21:43:51 2016 -0700
+
+    Alpha 45!
+
+commit e7194db33090a0afc06c77a959594361ffb949df
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue May 31 16:07:57 2016 -0700
+
+    Fix section links.
+
+commit dd5252feb6c5c9a877715ac8811a7e23a363b68f
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu May 26 09:05:28 2016 -0700
+
+    Update d3-zoom.
+
+commit aadff6ebc0cada9c445d7d4698ade195459a22f9
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu May 26 08:58:26 2016 -0700
+
+    Add missing exports.
+
+commit 14434c578c9ea484951755389fca88bbad1f6b66
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Thu May 26 08:51:30 2016 -0700
+
+    Add missing d3-drag exports.
+
+commit d09543d597ddaeec4e98d596139d6c9bf84fe197
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed May 25 22:22:55 2016 -0700
+
+    Update d3-zoom.
+
+commit 1cb0e5e73c79aa59d0b60699bcf2ef4e192fe3eb
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed May 25 17:01:19 2016 -0700
+
+    Update d3-zoom, d3-axis.
+
+commit bf95c3efe72c94a260fe0c5964bd4db2b339fb23
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Tue May 24 15:55:28 2016 -0700
+
+    Alpha 41.
+
+commit 6f763fade4adec178038abfdd9fb073a2ab52fd4
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Sat May 21 22:02:22 2016 -0700
+
+    Hints on finding the source.
+    
+    Related #2833.
+
+commit 90f8fcacba15e161e2fbe4bed6e28ee81ca7b222
+Author: Mike Bostock <mbostock@gmail.com>
+Date:   Wed May 18 14:05:28 2016 -0700
+
+    Link to custom bundle example.
